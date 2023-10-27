@@ -12,3 +12,6 @@ composer.phar
 phpunit.xml
 ci_generated
 .phpunit.result.cache
+
+# IDE
+.idea
